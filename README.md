@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylantodd01
-- 👀 I’m interested in software engineering and finance
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking for programming related work experience
 - 📫 How to reach me: dylantodd00@gmail.com
