@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dylantodd01
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking for programming related work experience
-- 📫 How to reach me: dylantodd00@gmail.com
+- 🌱 I’m currently developing my skills in Python
+- 💞️ I’m looking for a software engineering placement
+- 📫 How to reach me: dt608@bath.ac.uk
 
 <!---
 dylantodd01/dylantodd01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
