@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylantodd01
 - 🌱 I’m currently developing my skills in Python
-- 💞️ I’m looking for a software engineering placement
+- 💞️ I’m starting a 12 month software development placement with Lloyd's Bank in June 
 - 📫 How to reach me: dt608@bath.ac.uk
 
 <!---
