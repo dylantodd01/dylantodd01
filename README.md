@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylantodd01
-- 🌱 I’m currently developing my skills in Python
-- 💞️ I’m starting a 12 month software development placement with Lloyd's Bank in June 
+- 🌱 I’m a backend developer working at a large UK bank as part of a 12 month placement
+- 💞️ I have a working knowledge of Python, Java, Git, Postman and CA DevTest
 - 📫 How to reach me: dt608@bath.ac.uk
 
 <!---
